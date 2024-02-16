@@ -10,9 +10,9 @@ No exercises this week :)
 - [Null model preparation](https://github.com/Xannadoo/RoDS-2024/blob/main/exercises_02/3%20-%20Null%20models%20(preparation).ipynb)
 
 
-## Week 3: Exercises_03
-- Null models
-    + Evolution of individual scientific impact
+## Week 3: [Exercises_03](https://github.com/Xannadoo/RoDS-2024/tree/main/exercises_03)
+- **Postponed due to sickness**
+- [Multiple Hypotheses notebook](https://github.com/Xannadoo/RoDS-2024/blob/main/exercises_03/1%20-%20Multiple%20hypotheses.ipynb)
 - Begin to work on your bullshit journals
 
 ## Week 4: Exercises_04
