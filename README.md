@@ -11,7 +11,7 @@ No exercises this week :)
 
 
 ## Week 3: [Exercises_03](https://github.com/Xannadoo/RoDS-2024/tree/main/exercises_03)
-- **Postponed due to sickness**
+**Postponed due to sickness**
 - [Multiple Hypotheses notebook](https://github.com/Xannadoo/RoDS-2024/blob/main/exercises_03/1%20-%20Multiple%20hypotheses.ipynb)
 - Begin to work on your bullshit journals
 
