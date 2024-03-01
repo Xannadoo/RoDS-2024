@@ -18,7 +18,7 @@ No exercises this week :)
 ## Week 4 & 5: [Exercises_04](https://github.com/Xannadoo/RoDS-2024/tree/main/exercises-04)
 - [P-hacking PDF](https://github.com/Xannadoo/RoDS-2024/blob/main/exercises-04/1-p-hacking.pdf)
     + [Green dice are loaded notebook](https://github.com/Xannadoo/RoDS-2024/blob/main/exercises-04/1-p-hacking.ipynb)
-- TAs will share their journals
+- [TAs will share their journals](https://github.com/Xannadoo/RoDS-2024/tree/main/TAs%20BS%20Journals)
 - Continue to work on your own bullshit journals.
 
 ## Week 6: Deadline for feedback on collaborative bullshit journal
