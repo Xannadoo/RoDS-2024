@@ -21,10 +21,11 @@ No exercises this week :)
 - [TAs will share their journals](https://github.com/Xannadoo/RoDS-2024/tree/main/TAs%20BS%20Journals)
 - Continue to work on your own bullshit journals.
 
-## Week 6: Deadline for feedback on collaborative bullshit journal
-- Continue working on your bullshit journals
+## Week 6: Final session with focus on BS journals
+- Continue working on your bullshit journals.
 
-## Remaining weeks: Generative AI Bullshit
-- Week 7 will have an intro to the Generative AI report
-- Use the exercise sessions to work on Generative AI bullshit report
+## Remaining weeks: Generative AI Bullshit Project
+- **Week 7** will have an introduction to the Generative AI project by __Anna Rogers__ during the exercise session. We highly recommend coming along.
+- If you want feedback on your group BS journal, the deadline for submission on learnit is this week 15-03-24. We also highly recommend you take advantage of this opportunity, even if your journal isn't completely polished.
+- Use the exercise sessions to work on Generative AI bullshit report.
 
