@@ -34,8 +34,19 @@ No exercises this week :)
 ## Week 7 will have an introduction to the Generative AI project by *Anna Rogers* during the exercise session. We highly recommend coming along.
 - If you want feedback on your group BS journal, the deadline for submission on learnit is this week 15-03-24. We also highly recommend you take advantage of this opportunity, even if your journal isn't completely polished.
 
-## Remaining weeks:
-- Use the exercise sessions to work on Generative AI project and report.
+- Note from Anna on [LearnIT](https://learnit.itu.dk/mod/forum/discuss.php?d=36347#p81399)
+
+## Week 8
+Finish designing study, gather data, start analysis
+
+## Week 9
+Finish analysis, discuss results, start the report
+
+## Week 10
+Finish the report
+
+## Week 11 + 12
+Catch up sessions
 
 ***
 
